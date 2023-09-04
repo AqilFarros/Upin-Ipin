@@ -280,7 +280,6 @@ body {
     border-radius: 10px 10px 0 0;
     margin: 12.5%;
     transition: all 0.5s;
-    overflow: hidden;
 }
 
 .desc {
