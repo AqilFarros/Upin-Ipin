@@ -70,6 +70,7 @@ body {
     color: white;
     text-decoration: none;
     padding: 8px 15px;
+    transition: all 0.9s;
 }
 
 .navbar-button:hover {
